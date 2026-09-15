@@ -1,0 +1,6 @@
+{
+  "name": "AI Medical Diagnosis System",
+  "description": "An AI-powered symptom assessment and clinical triage system with machine learning evaluation, academic documentation, viva voce prep, and presentation slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
